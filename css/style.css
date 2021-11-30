@@ -52,6 +52,7 @@
       border: none;
       color: #fac8c3;
       margin-top: -80px;
+      opacity: 1;
   }
 
   .button-plus-2 {
@@ -60,4 +61,5 @@
     border: none;
     color: #001b31;
     margin-top: -80px;
+    opacity: 1;
 }
